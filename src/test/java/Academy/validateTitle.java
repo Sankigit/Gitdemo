@@ -28,6 +28,8 @@ public class validateTitle extends base{
 			
 		driver.get(prop.getProperty("url"));
 		 log.info("Navigated to Home page");
+		 log.info("Navigated to Home page2 open");
+		 log.info("Navigated to Home page2 close");
 	}
 	@Test
 	
